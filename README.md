@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://planshet-info.ru/wp-content/uploads/2022/01/преимущества-и-недостатки-машинного-обучения.jpg" width="1000"/>
+  <img src="https://i.pinimg.com/originals/2f/ff/5c/2fff5ce00cd386acc0b8bd2d06a5c6cb.jpg" width="1000"/>
 </div>
 
 # My works
