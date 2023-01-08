@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://simulatoran.com/wp-content/uploads/2020/11/keras-0.jpg" width="500"/> 
+  <img src="https://victorzhou.com/media/keras-posts/keras-nn.png" width="500"/> 
 </div>
 
 # 
 ## Описание проекта
 
-Это задача регрессии на предсказание цен на недвижимость в Мельбурне. Решать можно любым алгоритмом. 
-Предсказание модели будет оцениваться по MAPE (mean absolute Percentage error) – средняя абсолютная ошибка в процентах. 
+Это задача регрессии на предсказание цен на недвижимость в Мельбурне.  
+Предсказание модели оцениваться по MAPE (mean absolute Percentage error) – средняя абсолютная ошибка в процентах. 
 MAPE одна из самых интуитивных метрик для оценки задач регрессии.
 
 
