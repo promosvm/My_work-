@@ -17,7 +17,7 @@
 <tr>
 <td>
 
-[Catboost vs Keras](https://github.com/promosvm/yandex-praktikum/blob/main/project/01-исследовательский-анализ-данных/README.md)
+[Catboost vs Keras](https://github.com/promosvm/My_work-/blob/main/Catboost-VS-Keras/README.md)
 
 </td>
 <td>
