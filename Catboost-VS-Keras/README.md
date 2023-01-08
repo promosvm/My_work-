@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://simulatoran.com/wp-content/uploads/2020/11/keras-0.jpg" width="500"/>
+  <img src="https://simulatoran.com/wp-content/uploads/2020/11/keras-0.jpg" width="500"/> 
 </div>
 
 # 
