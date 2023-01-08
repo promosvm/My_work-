@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="https://victorzhou.com/media/keras-posts/keras-nn.png" width="500"/> 
 </div>
+ 
+ <div id="header" align="center">
+  <img src="https://pbs.twimg.com/media/Dj4vAIDV4AAPOkJ.jpg" width="500"/> 
+</div>
 
 # 
 ## Описание проекта
