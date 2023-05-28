@@ -1,0 +1,17 @@
+<div id="header" align="center">
+  <img src="https://victorzhou.com/media/keras-posts/keras-nn.png" width="500"/> 
+</div>
+ 
+ <div id="header" align="center">
+  <img src="https://cdn.ananasposter.ru/image/cache/catalog/poster/mult/81/20214-1000x830.jpg" width="500"/> 
+</div>
+
+# 
+## Описание проекта
+
+Любите ли вы Симпсонов как люблю их я? "Симпсоны" идет на телеэкранах более 25 лет, и за это время скопилось очень много видеоматериала. 
+Персоонажи менялись вместе с изменяющимися графическими технологиями, и Гомер Симпсон-2018 не очень похож на Гомера Симпсона-1989. 
+Так найдем всех персонажей, проживающих в Спрингфилде!
+
+## Решение
+[Открыть Notebook](./catboost-or-keras-which-is-better.ipynb)
