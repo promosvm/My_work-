@@ -13,4 +13,4 @@
 
 
 ## Решение
-[Открыть Notebook](./catboost-or-keras-which-is-better.ipynb)
+[Открыть Notebook](./simpsons.ipynb)
