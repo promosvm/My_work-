@@ -27,3 +27,19 @@
 
 </td>
 </tr>  
+
+  </thead>
+<tbody>
+<tr>
+<td>
+
+[Deep Learning freeze Layers](https://github.com/promosvm/My_work-/blob/main/Catboost-VS-Keras/README.md)
+
+</td>
+<td>
+
+Это задача регрессии на предсказание цен на недвижимость в Мельбурне.
+Предсказание модели оцениваться по MAPE (mean absolute Percentage error) – средняя абсолютная ошибка в процентах. MAPE одна из самых интуитивных метрик для оценки задач регрессии.
+
+</td>
+</tr>  
