@@ -1,10 +1,7 @@
 <div id="header" align="center">
-  <img src="https://victorzhou.com/media/keras-posts/keras-nn.png" width="500"/> 
+  <img src="https://cdn.ananasposter.ru/image/cache/catalog/poster/mult/81/20214-1000x830.jpg" width="500"/> 
 </div>
  
- <div id="header" align="center">
-  <img src="https://pbs.twimg.com/media/Dj4vAIDV4AAPOkJ.jpg](https://cdn.ananasposter.ru/image/cache/catalog/poster/mult/81/20214-1000x830.jpg" width="500"/> 
-</div>
 
 # 
 ## Описание проекта
