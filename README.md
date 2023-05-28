@@ -33,7 +33,8 @@
 <tr>
 <td>
 
-[Deep Learning freeze Layers](https://github.com/promosvm/My_work-/blob/main/Catboost-VS-Keras/README.md)
+[Deep Learning freeze Layers](https://github.com/promosvm/My_work-/tree/main/Deep_Learning/README.md)
+ 
 
 </td>
 <td>
