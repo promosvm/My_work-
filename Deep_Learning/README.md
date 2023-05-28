@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.ananasposter.ru/image/cache/catalog/poster/mult/81/20214-1000x830.jpg" width="500"/> 
+  <img src="https://i.pinimg.com/originals/53/7b/73/537b730ab04a5856db1d505e105fac14.jpg" width="500"/> 
 </div>
  
 
